@@ -1,5 +1,14 @@
 # NativeScript
-hooks/
+hooks/**/*
+!hooks/before-buildAndroid
+!hooks/before-buildAndroid/**/*
+!hooks/after-buildAndroid
+!hooks/after-buildAndroid/**/*
+!hooks/before-buildIOS
+!hooks/before-buildIOS/**/*
+!hooks/after-buildIOS
+!hooks/after-buildIOS/**/*
+
 node_modules/
 platforms/
 
