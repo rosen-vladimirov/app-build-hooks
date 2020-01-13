@@ -9,6 +9,11 @@ hooks/**/*
 !hooks/after-buildIOS
 !hooks/after-buildIOS/**/*
 
+!hooks/before-checkEnvironment
+!hooks/before-checkEnvironment/**/*
+!hooks/after-checkEnvironment
+!hooks/after-checkEnvironment/**/*
+
 node_modules/
 platforms/
 
